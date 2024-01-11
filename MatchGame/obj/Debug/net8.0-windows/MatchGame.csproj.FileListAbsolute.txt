@@ -18,3 +18,4 @@
 \\Mac\Home\Documents\c_sharp\MatchGame\MatchGame\obj\Debug\net8.0-windows\MatchGame.pdb
 \\Mac\Home\Documents\c_sharp\MatchGame\MatchGame\obj\Debug\net8.0-windows\MatchGame.genruntimeconfig.cache
 \\Mac\Home\Documents\c_sharp\MatchGame\MatchGame\obj\Debug\net8.0-windows\ref\MatchGame.dll
+\\Mac\Home\Documents\c_sharp\MatchGame\MatchGame\obj\Debug\net8.0-windows\MatchGame.sourcelink.json
